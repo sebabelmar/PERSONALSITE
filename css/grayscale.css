@@ -363,6 +363,11 @@ body {
 }
 
 #bio {
-    width:300px;
-    margin-bottom:40px;
+    height: 300px;
+    margin-bottom: 40px;
+}
+
+.portfolio-img {
+    border-radius: 10px;
+    height: 200px;
 }
