@@ -48,7 +48,6 @@ hr.star-primary {
 
 hr.star-light:after,
 hr.star-primary:after {
-    content: "\f005";
     display: inline-block;
     position: relative;
     top: -.8em;
@@ -450,4 +449,12 @@ footer .footer-below {
 
 .caption{
     border-radius: 10px;
+}
+
+#seba {
+    color: black;
+}
+
+.black-font {
+    color: black;
 }
